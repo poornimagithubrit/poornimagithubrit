@@ -11,7 +11,8 @@
 - 🔭 Currently building **LLM-powered RAG pipelines, agentic AI workflows, and computer vision systems** at Bixware Technologies
 - 🌱 Hands-on with **GPT-4o, AWS Bedrock, LangChain, FAISS, YOLOv8, Whisper, and Azure AI Foundry**
 - 📍 Based in **Coimbatore, India**
-- 🎓 M.Sc. Data Analytics | University Rank Holder (Top 1.5%)
+- 🎓 M.Sc. Data Analytics
+- 🎓  BCA  | University Rank Holder (Top 1.5%)
 - 📫 Reach me at: **poorni4777@gmail.com**
 
 ---
