@@ -1,6 +1,6 @@
 # Hi, I'm Poornima Shanmugasundaram 👋
 
-### Generative AI Engineer | LLM & RAG Systems | Computer Vision | Agentic AI
+### AI Engineer | LLM & RAG Systems | Computer Vision | Agentic AI
 
 > Building production-grade AI systems that reduce manual effort, cut costs, and deliver measurable business impact.
 
