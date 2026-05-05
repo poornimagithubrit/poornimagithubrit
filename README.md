@@ -1,4 +1,4 @@
-# Hi, I'm Poornima Shanmugasundaram 👋
+# Hi, I'm Poornima S👋
 
 ### AI Engineer | LLM & RAG Systems | Computer Vision | Agentic AI
 
@@ -77,7 +77,7 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornima-shanmugasundaram-00859b232/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poornima-s-00859b232/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poornimagithubrit)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorni4777@gmail.com)
 
